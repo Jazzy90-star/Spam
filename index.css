@@ -1,0 +1,24 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dB2443KoSjP-y2jg8WZ4-8nfV-BKhCm3yMPT8Kxnms_Mo2OQQivzuzTVKYn-yc9OANo&usqp=CAU);
+  background-repeat: repeat;
+}
+.container {
+  background-color: white;
+  opacity: 0.95;
+  padding: 15px;
+  margin-top: 25px;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+p {
+  font-weight: bold;
+  text-align: center;
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+}
