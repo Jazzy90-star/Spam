@@ -1,3 +1,6 @@
+
+
+
 Spam Sender
 
 A simple tool for sending spam messages to multiple recipients. This tool is for educational purposes only and should not be used for sending unsolicited emails.
@@ -26,7 +29,7 @@ This tool is for educational purposes only. Do not use this tool for sending uns
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Feel free to adjust the content and instructions as needed for your "Spam Sender" tool.
+Feel free to customize the styling further to match your preferences!
 
 
 
