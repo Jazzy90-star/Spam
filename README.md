@@ -23,7 +23,7 @@ Select the recipients from your contacts list or manually enter email addresses.
 Sending the Spam Messages
 Click the "Send" button to start sending the spam messages.
 Use the delay option to add a delay between sending each message if needed.
-Disclaimer
+Disclaimer:
 This tool is for educational purposes only. Do not use this tool for sending unsolicited emails or spam. The developers of this tool are not responsible for any misuse of this tool.
 
 License
